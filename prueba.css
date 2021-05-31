@@ -1,0 +1,63 @@
+
+.showcase{
+    
+    background: url(carros/483bb100-92a5-498c-bba9-49a0d58be085.jpg) no-repeat center center/cover;
+  margin-top: 15px;
+
+    display: flex;
+    padding-bottom: 15px;
+   }
+   .logo{
+       width: 80px;
+   }
+
+
+.imagen{
+    width: 80px;
+}
+.collapse-navbar-collapse{
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+p{
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+.social{
+    margin: 50px;
+    background: red;
+
+}
+.social p{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.links a{
+    margin: 0 30px;
+
+}
+.links a li {
+    font-size: 4rem;
+    color: black;
+}
+
+.footer-links {
+    background: gray;
+    color: black;
+    font-size: 12px;
+    padding: 35px 0;}
+    .carousel-inner{
+        border: 5px solid  black;
+    }
+   
